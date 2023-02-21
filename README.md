@@ -1,4 +1,4 @@
-Learn Svelte
+## Learn Svelte
 
 Quick start:
 
