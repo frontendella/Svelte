@@ -13,7 +13,7 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
 $ yarn watch # npm run watch
-```
+```  
 
 ### [Scrimba Svelte course](https://scrimba.com/learn/learnsvelte)
   
